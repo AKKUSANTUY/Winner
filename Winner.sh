@@ -50,7 +50,7 @@ echo $green "[!] Pilih Menu Nya Cuk  [!]"
 echo $red "[!]=====================[!]"
 echo $blue "[1] Dark Fb              |"
 echo $yellow "[2] Stabilkan Jaringan   |"
-echo $green "[3] Spam Brutal Sms      |"
+echo $green "[3] Spam Multi Brutal    |"
 echo $purple "[4] Spam Call            |"
 echo $cyan "[5] Spam WhatsApp        |"
 echo $white "[6] Exit Cuk             |"
@@ -78,9 +78,9 @@ fi
 if [ $pill = "3" ]
 then
 echo "Sedang Menginstall Cuk.... " :slepp 2
-git clone https://github.com/B4N954N2-ID/Brutal-Sms
-cd Brutal-Sms
-python2 brutal.py
+git clone https://github.com/DulL4h176/SPAMotp
+cd SPAMotl
+python SPAMSMMS.py
 fi
 #batas gan
 if [ $pill = "4" ]
