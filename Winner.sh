@@ -1,16 +1,16 @@
 #!/bin/bash
-#Gunakan Tools Ini Dengan Bijak!
+#Gunakan Tools Ini Dengan Bijak Cuk!
 clear
 figlet "Santri Cyber"
 echo "[!]================================[!]"
-echo " | Author    : Santri Cyber Santuy" |
-echo " | Instagram : Akku_Santuy          |
-echo " | Github    : AKKUSANTUY           |
-echo " | WhatsApp  : 082134566596"        |
+echo " | Author    : Santri Cyber Santuy  |"
+echo " | Instagram : Akku_Santuy          |"
+echo " | Github    : AKKUSANTUY           |'
+echo " | WhatsApp  : 082134566596         |"
 echo "[!]================================[!]"
 echo
-echo "[!]=====================[!]
-echo "[!][ Pilih Menunya Cuk ][!]"
+echo "[!]=====================[!]"
+echo "[!] Pilih Menu Nya Cuk  [!]"
 echo "[!]=====================[!]
 echo "[1] Dark Fb              |"
 echo "[2] Stabilkan Jaringan   |"
@@ -18,9 +18,9 @@ echo "[3] Spam Brutal Sms      |"
 echo "[4] Spam Call            |"
 echo "[5] Spam WhatsApp        |"
 echo "[6] Exit Cuk             |"
-echo "[!]=====================[!]
-echo "[!] Pilih Nomer Nya Cuk [!]
-echo "[!]=====================[!]
+echo "[!]=====================[!]"
+echo "[!] Pilih Nomer Nya Cuk [!]"
+echo "[!]=====================[!]"
 echo
 read -p "[!] Nomer [!]>> " pill
 #batas gan
