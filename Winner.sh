@@ -1,27 +1,61 @@
 #!/bin/bash
-#Gunakan Tools Ini Dengan Bijak Cuk!
+# Gunakan Tools Ini Dengan Bijak Cuk!
+# Jangan Recode Bangsat
+# Lu Mampu Nga bos
+# Instagram : Akku_Santuy
+# WhtsApp : 082134566596
+
+blue='\033[34;1m'
+green='\033[32;1m'                                        
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'                                           
+yellow='\033[33;1m'
+
+clear
+echo $blue ">>>Loading Cuk."
+sleep 1
+clear
+echo $green ">>>Loading Cuk.."
+sleep 1
+clear
+echo $yellow ">>>Loading Cuk..."
+sleep 1
+clear
+echo $purple ">>>Loading Cuk...."
+sleep 1
+clear
+echo $blue ">>>Loading Cuk....."
+sleep 1
+clear
+echo $green ">>>Loading Cuk......"
+sleep 1
+clear
+echo $yellow ">>>Loading Cuk......."
+sleep 1
 clear
 figlet "Santri Cyber"
-echo "[!]================================[!]"
-echo " | Author    : Santri Cyber Santuy  |"
-echo " | Instagram : Akku_Santuy          |"
-echo " | Github    : AKKUSANTUY           |'
-echo " | WhatsApp  : 082134566596         |"
-echo "[!]================================[!]"
+echo $red "[!]================================[!]"
+echo $blue " | Author    : Santri Cyber Santuy  |"
+echo $green " | Instagram : Akku_Santuy          |"
+echo $yellow " | Github    : AKKUSANTUY           |'
+echo $purple " | WhatsApp  : 082134566596         |"
+echo $red "[!]================================[!]"
 echo
-echo "[!]=====================[!]"
-echo "[!] Pilih Menu Nya Cuk  [!]"
-echo "[!]=====================[!]
-echo "[1] Dark Fb              |"
-echo "[2] Stabilkan Jaringan   |"
-echo "[3] Spam Brutal Sms      |"
-echo "[4] Spam Call            |"
-echo "[5] Spam WhatsApp        |"
-echo "[6] Exit Cuk             |"
-echo "[!]=====================[!]"
-echo "[!] Pilih Nomer Nya Cuk [!]"
-echo "[!]=====================[!]"
-echo
+echo $red "[!]=====================[!]"
+echo $green "[!] Pilih Menu Nya Cuk  [!]"
+echo $red "[!]=====================[!]
+echo $blue "[1] Dark Fb              |"
+echo $yellow "[2] Stabilkan Jaringan   |"
+echo $green "[3] Spam Brutal Sms      |"
+echo $purple "[4] Spam Call            |"
+echo $cyan "[5] Spam WhatsApp        |"
+echo $white "[6] Exit Cuk             |"
+echo $red "[!]=====================[!]"
+echo $green "[!] Pilih Nomer Nya Cuk [!]"
+echo $red "[!]=====================[!]"
+echo $yellow ""
 read -p "[!] Nomer [!]>> " pill
 #batas gan
 if [ $pill = "1" ]
