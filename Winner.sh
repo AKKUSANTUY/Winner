@@ -47,7 +47,7 @@ echo
 sleep 1
 echo $red "[!]=====================[!]"
 echo $green "[!] Pilih Menu Nya Cuk  [!]"
-echo $red "[!]=====================[!]
+echo $red "[!]=====================[!]"
 echo $blue "[1] Dark Fb              |"
 echo $yellow "[2] Stabilkan Jaringan   |"
 echo $green "[3] Spam Brutal Sms      |"
@@ -103,5 +103,9 @@ fi
 if [ $pill = "6" ]
 then
 echo "SAMPAI JUMPA LAGI CUK"
+echo "good byeeeeeeee cuk trimakasih."
+sleep 2
+termux-open-url https://www.instagram.com/akku_santuy
+sleep 3
 exit
 fi
