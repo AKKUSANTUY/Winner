@@ -36,13 +36,15 @@ echo $yellow ">>>Loading Cuk......."
 sleep 1
 clear
 figlet "Santri Cyber"
+sleep 1
 echo $red "[!]================================[!]"
 echo $blue " | Author    : Santri Cyber Santuy  |"
 echo $green " | Instagram : Akku_Santuy          |"
-echo $yellow " | Github    : AKKUSANTUY           |'
+echo $yellow " | Github    : AKKUSANTUY           |"
 echo $purple " | WhatsApp  : 082134566596         |"
 echo $red "[!]================================[!]"
 echo
+sleep 1
 echo $red "[!]=====================[!]"
 echo $green "[!] Pilih Menu Nya Cuk  [!]"
 echo $red "[!]=====================[!]
@@ -55,6 +57,7 @@ echo $white "[6] Exit Cuk             |"
 echo $red "[!]=====================[!]"
 echo $green "[!] Pilih Nomer Nya Cuk [!]"
 echo $red "[!]=====================[!]"
+sleep 2
 echo $yellow ""
 read -p "[!] Nomer [!]>> " pill
 #batas gan
